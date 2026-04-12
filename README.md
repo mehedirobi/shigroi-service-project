@@ -1,4 +1,4 @@
-# 🛠️ Shigroi Service
+#  Shigroi Service
 
 A full-stack service marketplace platform where users can quickly find and hire local service providers such as cleaners, carpenters, electricians, and masons. Users can also register as service providers and offer their services.
 
